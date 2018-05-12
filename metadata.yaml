@@ -20,6 +20,8 @@ description: "Varney the Vampire; or, the Feast of Blood is a Victorian era seri
   \ in vampire fiction recognizable to modern audiences. It was the first story to\
   \ refer to sharpened teeth for a vampire, noting “With a plunge he seizes her neck\
   \ in his fang-like teeth.”\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14833#Varney-the-Vampire--Or-the-Feast-of-Blood
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2005-01-29'
 gutenberg_type: Text
