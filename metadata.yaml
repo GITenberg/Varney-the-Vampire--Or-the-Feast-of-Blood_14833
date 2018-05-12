@@ -1,0 +1,47 @@
+_repo: Varney-the-Vampire--Or-the-Feast-of-Blood_14833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prest, Thomas Preskett
+    gutenberg_agent_id: '5709'
+    url: http://www.gutenberg.org/2009/agents/5709
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Peckett_Prest
+description: "Varney the Vampire; or, the Feast of Blood is a Victorian era serialized\
+  \ gothic horror story variously attributed to James Malcolm Rymer and Thomas Peckett\
+  \ Prest. It first appeared in 1845–1847 as a series of weekly cheap pamphlets of\
+  \ the kind then known as \"penny dreadfuls\". The story was published in book form\
+  \ in 1847. It is of epic length: the original edition ran to 876 double-columned\
+  \ pages  and 232 chapters. Altogether it totals nearly 667,000 words.\nDespite its\
+  \ inconsistencies, Varney the Vampire is more or less a cohesive whole. It is the\
+  \ tale of the vampire Sir Francis Varney, and introduced many of the tropes present\
+  \ in vampire fiction recognizable to modern audiences. It was the first story to\
+  \ refer to sharpened teeth for a vampire, noting “With a plunge he seizes her neck\
+  \ in his fang-like teeth.”\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2005-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14833'
+  wikidata: Q1987925
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- !lcc 'PR'
+- !lcsh 'Vampires -- Fiction'
+title: Varney the Vampire; Or, the Feast of Blood
+url: http://www.gutenberg.org/ebooks/14833
+wikipedia:
+- https://nl.wikipedia.org/wiki/Varney_the_Vampire
+- https://id.wikipedia.org/wiki/Varney_the_Vampire
+- https://pt.wikipedia.org/wiki/Varney_the_Vampire
+- https://es.wikipedia.org/wiki/Varney_el_vampiro
+- https://en.wikipedia.org/wiki/Varney_the_Vampire
+- https://it.wikipedia.org/wiki/Varney_il_vampiro
+- https://ca.wikipedia.org/wiki/Varney_el_vampir
